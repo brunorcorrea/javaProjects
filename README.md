@@ -1,2 +1,2 @@
 # javaProjects
- Repositório criado para armazenar todos os meus projetos desenvolvidos em Java.
+ Repositório criado para armazenar meus projetos iniciais desenvolvidos em Java.
