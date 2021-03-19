@@ -9,7 +9,9 @@ public class Main {
     String name;
     float salary, sales, totalSalary;
     System.out.print("Insira o nome do vendedor: ");
-    name = read.next();
+    read.nextLine(); // pra limpar o buffer e a variável não receber \n
+
+    name = read.nextLine();
     System.out.print("Insira o salário fixo: ");
     salary = read.nextFloat();
     System.out.print("Insira o total de vendas efetuadas no mês (em dinheiro): ");
